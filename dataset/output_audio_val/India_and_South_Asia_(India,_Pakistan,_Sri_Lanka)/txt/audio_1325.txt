@@ -1,0 +1,1 @@
+Thus we have a groupoid in the algebraic sense.

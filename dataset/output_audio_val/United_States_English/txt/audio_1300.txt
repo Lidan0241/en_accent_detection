@@ -1,0 +1,1 @@
+It is also available on other platforms, like Ubuntu from the repositories.
