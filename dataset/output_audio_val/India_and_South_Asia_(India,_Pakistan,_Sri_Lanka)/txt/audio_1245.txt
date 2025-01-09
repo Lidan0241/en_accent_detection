@@ -1,1 +1,0 @@
-Remember, real programmers don't write documentation.

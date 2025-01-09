@@ -1,1 +1,0 @@
-A transparency threshold is a given value at which transparency is reached.

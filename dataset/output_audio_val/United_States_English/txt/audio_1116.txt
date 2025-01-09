@@ -1,1 +1,0 @@
-The deliberate bias towards "minimalism" avoids using too many different technologies.

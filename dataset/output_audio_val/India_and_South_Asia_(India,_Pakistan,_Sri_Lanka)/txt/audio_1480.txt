@@ -1,1 +1,0 @@
-The conserved regions found by multiple sequence alignment are bolded.

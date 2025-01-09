@@ -1,1 +1,0 @@
-This is a problem closely related to the longest common subsequence problem.

@@ -1,1 +1,0 @@
-The irregular pattern comes from the pseudorandomness of the function.

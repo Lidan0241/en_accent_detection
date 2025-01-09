@@ -1,1 +1,0 @@
-The cable is run receiver to receiver in a daisy-chain fashion.

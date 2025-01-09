@@ -1,1 +1,0 @@
-The book develops complex numbers as a tool for geometry and function theory.

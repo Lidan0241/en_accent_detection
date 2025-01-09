@@ -1,1 +1,0 @@
-The server software runs equally well on Unix and Windows.

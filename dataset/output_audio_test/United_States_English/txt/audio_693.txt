@@ -1,1 +1,0 @@
-This add-on allowed Notes documents to be rendered as web pages in real time.

@@ -1,1 +1,0 @@
-There is no main memory access here.

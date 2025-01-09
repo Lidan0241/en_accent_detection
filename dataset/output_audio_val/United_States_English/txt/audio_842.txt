@@ -1,1 +1,0 @@
-Bytes can be manipulated by a combination of shift and mask operations in registers.
